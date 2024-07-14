@@ -1,0 +1,15 @@
+
+login:
+    path: /api/login
+    controller: App\Controller\AuthController::login
+    methods: ['POST']
+
+Register:
+    path: /api/register
+    controller: App\Controller\
+
+
+addCart:
+    path:/api/cart
+    controller: App\Controller\ProductController::addcart
+    methods: ['POST']

@@ -21,7 +21,7 @@ This project aims to create a generic API for e-commerce merchant sites, focusin
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/EpitechMscProPromo2026/T-WEB-600-NCY_8
+   git clone https://git@github.com:japhetk27/E-Commerce.git
    ```
 
 2. Navigate to the project directory:
